@@ -1,216 +1,132 @@
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
-
 <a href="https://e-devtech.com/">
   <img src="./edev-logo.png" width="130" alt="E-DevTech Logo">
 </a>
 
-<h1>Erdican Eroğlu</h1>
+# Erdican Eroğlu
 
-<p>
-  <strong>Full-Stack Developer • Cyber Security • Automation Systems</strong><br>
-  <strong>Yazılım • Siber Güvenlik • Otomasyon • AI Destekli Sistemler</strong>
-</p>
+**Full-Stack Developer • Cyber Security • Automation Systems**  
+**Yazılım • Siber Güvenlik • Otomasyon • AI Destekli Sistemler**
 
-<p>
-  <a href="https://e-devtech.com/">
-    <img src="https://img.shields.io/badge/WEB%20LAB-e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Web Lab">
-  </a>
-</p>
-
-<p>
-  <a href="mailto:erdicaneroglu@e-devtech.com">
-    <img src="https://img.shields.io/badge/CORPORATE%20MAIL-erdicaneroglu%40e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Corporate Mail">
-  </a>
-</p>
-
-<p>
-  <a href="mailto:erdicanerogluinfo@gmail.com">
-    <img src="https://img.shields.io/badge/PERSONAL%20MAIL-erdicanerogluinfo%40gmail.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Personal Mail">
-  </a>
-</p>
-
-    </td>
-  </tr>
-</table>
+<a href="https://e-devtech.com/">
+  <img src="https://img.shields.io/badge/WEB%20LAB-e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Web Lab">
+</a>
 
 <br>
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
-
-<table cellpadding="10" cellspacing="0">
-  <tr>
-    <td bgcolor="#0d1117" align="left">
-      <strong>DEVELOPER TERMINAL</strong>
-    </td>
-  </tr>
-</table>
-
-<p>
-  <strong>erdican@edevtech:~$ whoami</strong><br>
-  Full-Stack Developer | Cyber Security | Automation Builder
-</p>
-
-<p>
-  <strong>erdican@edevtech:~$ mode</strong><br>
-  Build. Break. Fix. Ship.
-</p>
-
-<p>
-  <strong>erdican@edevtech:~$ motto</strong><br>
-  Spagetti kod tabakta güzel, projede değil.
-</p>
-
-    </td>
-  </tr>
-</table>
+<a href="mailto:erdicaneroglu@e-devtech.com">
+  <img src="https://img.shields.io/badge/CORPORATE%20MAIL-Contact-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Corporate Mail">
+</a>
 
 <br>
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
+<a href="mailto:erdicanerogluinfo@gmail.com">
+  <img src="https://img.shields.io/badge/PERSONAL%20MAIL-Contact-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Personal Mail">
+</a>
 
-<table cellpadding="10" cellspacing="0">
-  <tr>
-    <td bgcolor="#0d1117" align="left">
-      <strong>KOD TARAFINDA KİM BU ADAM?</strong>
-    </td>
-  </tr>
-</table>
+---
 
-<h3>TR</h3>
+## <kbd>DEVELOPER TERMINAL</kbd>
 
-<p>
+**erdican@edevtech:~$ whoami**  
+Full-Stack Developer | Cyber Security | Automation Builder
+
+**erdican@edevtech:~$ mode**  
+Build. Break. Fix. Ship.
+
+**erdican@edevtech:~$ motto**  
+Spagetti kod tabakta güzel, projede değil.
+
+---
+
+## <kbd>KOD TARAFINDA KİM BU ADAM?</kbd>
+
+### TR
+
 E-DevTech tarafında web yazılım, otomasyon, API entegrasyonu, özel yönetim arayüzleri ve siber güvenlik odaklı çözümler geliştiriyorum.
-</p>
 
-<p><strong>Çalışma tarzım net:</strong></p>
+**Çalışma tarzım net:**
 
-<ul>
-  <li>Önce sistemi anlarım.</li>
-  <li>Sonra temiz kurarım.</li>
-  <li>Sonra gereksiz karmaşayı çöpe yollarım.</li>
-</ul>
+- Önce sistemi anlarım.
+- Sonra temiz kurarım.
+- Sonra gereksiz karmaşayı çöpe yollarım.
 
-<h3>EN</h3>
+### EN
 
-<p>
 I build web applications, automation systems, API integrations, custom management interfaces and security-focused solutions under E-DevTech.
-</p>
 
-<p><strong>My working style is simple:</strong></p>
+**My working style is simple:**
 
-<ul>
-  <li>Understand the system.</li>
-  <li>Build it clean.</li>
-  <li>Remove the chaos.</li>
-</ul>
+- Understand the system.
+- Build it clean.
+- Remove the chaos.
 
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## <kbd>SKILL INVENTORY</kbd>
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
+### Frontend Masası
 
-<table cellpadding="10" cellspacing="0">
-  <tr>
-    <td bgcolor="#0d1117" align="left">
-      <strong>SKILL INVENTORY</strong>
-    </td>
-  </tr>
-</table>
+- HTML
+- CSS
+- JavaScript
+- Responsive UI
+- Landing Page
+- Modern Interface
+- Kullanıcıyı yormayan tasarım
 
-<p><strong>Frontend Masası</strong></p>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Responsive UI</li>
-  <li>Landing Page</li>
-  <li>Modern Interface</li>
-  <li>Kullanıcıyı yormayan tasarım</li>
-</ul>
+### Backend Kazanı
 
-<p><strong>Backend Kazanı</strong></p>
-<ul>
-  <li>PHP</li>
-  <li>Laravel</li>
-  <li>Node.js</li>
-  <li>REST API</li>
-  <li>Management Systems</li>
-  <li>Auth Systems</li>
-  <li>Database Logic</li>
-</ul>
+- PHP
+- Laravel
+- Node.js
+- REST API
+- Management Systems
+- Auth Systems
+- Database Logic
 
-<p><strong>Güvenlik Odası</strong></p>
-<ul>
-  <li>Web Security</li>
-  <li>Linux Security</li>
-  <li>Server Hardening</li>
-  <li>Basic Pentest</li>
-  <li>Access Control</li>
-  <li>Security Checks</li>
-  <li>“Bunu kim açık bıraktı?” analizi</li>
-</ul>
+### Güvenlik Odası
 
-<p><strong>Otomasyon Garajı</strong></p>
-<ul>
-  <li>Python Bots</li>
-  <li>VDS Automation</li>
-  <li>n8n Workflows</li>
-  <li>Webhook Systems</li>
-  <li>Macro Systems</li>
-  <li>Task Automation</li>
-  <li>Tekrarlı işi robota kilitleme</li>
-</ul>
+- Web Security
+- Linux Security
+- Server Hardening
+- Basic Pentest
+- Access Control
+- Security Checks
+- “Bunu kim açık bıraktı?” analizi
 
-<p><strong>AI Tezgahı</strong></p>
-<ul>
-  <li>AI Assisted Coding</li>
-  <li>Prompt Systems</li>
-  <li>AI Workflow Design</li>
-  <li>Smart Automation</li>
-  <li>AI Agents</li>
-  <li>Business Automation</li>
-  <li>“Bunu yapay zekaya yaptıralım” bölümü</li>
-</ul>
+### Otomasyon Garajı
 
-<p><strong>Server Tarafı</strong></p>
-<ul>
-  <li>Linux Server</li>
-  <li>Hosting Setup</li>
-  <li>Git / GitHub</li>
-  <li>Deployment</li>
-  <li>Backup Systems</li>
-  <li>Domain / SSL Setup</li>
-  <li>Sunucu triplerini çözme</li>
-</ul>
+- Python Bots
+- VDS Automation
+- n8n Workflows
+- Webhook Systems
+- Macro Systems
+- Task Automation
+- Tekrarlı işi robota kilitleme
 
-    </td>
-  </tr>
-</table>
+### AI Tezgahı
 
-<br>
+- AI Assisted Coding
+- Prompt Systems
+- AI Workflow Design
+- Smart Automation
+- AI Agents
+- Business Automation
+- “Bunu yapay zekaya yaptıralım” bölümü
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
+### Server Tarafı
 
-<table cellpadding="10" cellspacing="0">
-  <tr>
-    <td bgcolor="#0d1117" align="left">
-      <strong>TECH STACK</strong>
-    </td>
-  </tr>
-</table>
+- Linux Server
+- Hosting Setup
+- Git / GitHub
+- Deployment
+- Backup Systems
+- Domain / SSL Setup
+- Sunucu triplerini çözme
+
+---
+
+## <kbd>TECH STACK</kbd>
 
 <p>
   <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=ff7a1a" alt="HTML">
@@ -235,252 +151,137 @@ I build web applications, automation systems, API integrations, custom managemen
   <img src="https://img.shields.io/badge/AI%20Tools-0d1117?style=for-the-badge&logo=openai&logoColor=ff7a1a" alt="AI Tools">
 </p>
 
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## <kbd>NE İNŞA EDİYORUZ?</kbd>
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
+### Web Siteleri
 
-<table cellpadding="10" cellspacing="0">
-  <tr>
-    <td bgcolor="#0d1117" align="left">
-      <strong>NE İNŞA EDİYORUZ?</strong>
-    </td>
-  </tr>
-</table>
+[Kurumsal web sitesi, landing page, hizmet sayfaları ve modern arayüzler.](https://e-devtech.com/)
 
-<p>
-  <strong>Web Siteleri</strong><br>
-  <a href="https://e-devtech.com/">Kurumsal web sitesi, landing page, hizmet sayfaları ve modern arayüzler.</a>
-</p>
+### Yönetim Arayüzleri
 
-<p>
-  <strong>Yönetim Arayüzleri</strong><br>
-  <a href="https://e-devtech.com/">Dashboard, kullanıcı yönetimi, yetkilendirme ve özel iş takip sistemleri.</a>
-</p>
+[Dashboard, kullanıcı yönetimi, yetkilendirme ve özel iş takip sistemleri.](https://e-devtech.com/)
 
-<p>
-  <strong>Otomasyon Botları</strong><br>
-  <a href="https://e-devtech.com/">VDS üzerinde çalışan botlar, makrolar, n8n akışları ve webhook sistemleri.</a>
-</p>
+### Otomasyon Botları
 
-<p>
-  <strong>API Entegrasyonları</strong><br>
-  <a href="https://e-devtech.com/">WhatsApp, Google servisleri, ödeme sistemleri, CRM ve özel API bağlantıları.</a>
-</p>
+[VDS üzerinde çalışan botlar, makrolar, n8n akışları ve webhook sistemleri.](https://e-devtech.com/)
 
-<p>
-  <strong>Siber Güvenlik</strong><br>
-  <a href="https://e-devtech.com/">Web güvenliği, sunucu güvenliği, temel kontrol ve güvenli yapılandırma.</a>
-</p>
+### API Entegrasyonları
 
-<p>
-  <strong>AI Destekli Sistemler</strong><br>
-  <a href="https://e-devtech.com/">AI destekli iş akışları, otomasyon fikirleri ve üretken yazılım çözümleri.</a>
-</p>
+[WhatsApp, Google servisleri, ödeme sistemleri, CRM ve özel API bağlantıları.](https://e-devtech.com/)
 
-    </td>
-  </tr>
-</table>
+### Siber Güvenlik
 
-<br>
+[Web güvenliği, sunucu güvenliği, temel kontrol ve güvenli yapılandırma.](https://e-devtech.com/)
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
+### AI Destekli Sistemler
 
-<table cellpadding="10" cellspacing="0">
-  <tr>
-    <td bgcolor="#0d1117" align="left">
-      <strong>PROJELER &amp; İŞLER</strong>
-    </td>
-  </tr>
-</table>
+[AI destekli iş akışları, otomasyon fikirleri ve üretken yazılım çözümleri.](https://e-devtech.com/)
 
-<p>
-  <strong>E-DevTech Website</strong><br>
-  <a href="https://e-devtech.com/">Yazılım, teknoloji ve dijital çözüm hizmetleri için kurumsal web yapısı.</a>
-</p>
+---
 
-<p>
-  <strong>Automation Systems</strong><br>
-  <a href="https://e-devtech.com/">Bot, webhook, VDS makro ve workflow tabanlı sistemler.</a>
-</p>
+## <kbd>PROJELER & İŞLER</kbd>
 
-<p>
-  <strong>Custom Management Interfaces</strong><br>
-  <a href="https://e-devtech.com/">Müşteri ihtiyacına göre özel yönetim ekranı ve dashboard sistemleri.</a>
-</p>
+### E-DevTech Website
 
-<p>
-  <strong>Business Websites</strong><br>
-  <a href="https://e-devtech.com/">İşletmeler için hızlı, sade, mobil uyumlu ve yönetilebilir web siteleri.</a>
-</p>
+[Yazılım, teknoloji ve dijital çözüm hizmetleri için kurumsal web yapısı.](https://e-devtech.com/)
 
-<p>
-  <strong>API Based Systems</strong><br>
-  <a href="https://e-devtech.com/">Harici servislerle konuşan özel yazılım ve entegrasyon çözümleri.</a>
-</p>
+### Automation Systems
 
-<p>
-  <strong>Server Setup</strong><br>
-  <a href="https://e-devtech.com/">Linux sunucu, hosting, SSL, domain, backup ve bakım işlemleri.</a>
-</p>
+[Bot, webhook, VDS makro ve workflow tabanlı sistemler.](https://e-devtech.com/)
 
-    </td>
-  </tr>
-</table>
+### Custom Management Interfaces
 
-<br>
+[Müşteri ihtiyacına göre özel yönetim ekranı ve dashboard sistemleri.](https://e-devtech.com/)
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
+### Business Websites
 
-<table cellpadding="10" cellspacing="0">
-  <tr>
-    <td bgcolor="#0d1117" align="left">
-      <strong>ÇALIŞMA MODU</strong>
-    </td>
-  </tr>
-</table>
+[İşletmeler için hızlı, sade, mobil uyumlu ve yönetilebilir web siteleri.](https://e-devtech.com/)
 
-<p>
-  <strong>Önce Anla</strong><br>
-  Sistemi anlamadan kod yazmak yok.<br>
-  Direkt dalarsan kod değil, kazı alanı çıkar.
-</p>
+### API Based Systems
 
-<p>
-  <strong>Temiz Kur</strong><br>
-  Kod okunacak.<br>
-  Yarın bakan kişi küfür etmeyecek.
-</p>
+[Harici servislerle konuşan özel yazılım ve entegrasyon çözümleri.](https://e-devtech.com/)
 
-<p>
-  <strong>Güvenli Bırak</strong><br>
-  Açık kapı bırakmak yok.<br>
-  Anahtarı paspas altına koymuyoruz.
-</p>
+### Server Setup
 
-<p>
-  <strong>Çalışır Teslim Et</strong><br>
-  “Bende çalışıyor” cümlesi yasak.<br>
-  Gerçek ortamda çalışacak.
-</p>
+[Linux sunucu, hosting, SSL, domain, backup ve bakım işlemleri.](https://e-devtech.com/)
 
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## <kbd>ÇALIŞMA MODU</kbd>
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
+### Önce Anla
 
-<table cellpadding="10" cellspacing="0">
-  <tr>
-    <td bgcolor="#0d1117" align="left">
-      <strong>GITHUB MODE</strong>
-    </td>
-  </tr>
-</table>
+Sistemi anlamadan kod yazmak yok.  
+Direkt dalarsan kod değil, kazı alanı çıkar.
 
-<p>
-  <strong>Repositories</strong><br>
-  Kod depoları düzenli tutulur.<br>
-  Çöp dosya, gereksiz karmaşa, “final-final-son.zip” yok.
-</p>
+### Temiz Kur
 
-<p>
-  <strong>Commits</strong><br>
-  Ne değiştiyse belli olur.<br>
-  Commit mesajı fal bakar gibi okunmaz.
-</p>
+Kod okunacak.  
+Yarın bakan kişi küfür etmeyecek.
 
-<p>
-  <strong>Branches</strong><br>
-  Main branch kutsaldır.<br>
-  Deneme tahtası gibi kullanılmaz.
-</p>
+### Güvenli Bırak
 
-<p>
-  <strong>Deploy</strong><br>
-  Kod sadece localde değil, gerçek ortamda da çalışır.<br>
-  Asıl mevzu orada başlar.
-</p>
+Açık kapı bırakmak yok.  
+Anahtarı paspas altına koymuyoruz.
 
-    </td>
-  </tr>
-</table>
+### Çalışır Teslim Et
 
-<br>
+“Bende çalışıyor” cümlesi yasak.  
+Gerçek ortamda çalışacak.
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
+---
 
-<table cellpadding="10" cellspacing="0">
-  <tr>
-    <td bgcolor="#0d1117" align="left">
-      <strong>FINAL NOT</strong>
-    </td>
-  </tr>
-</table>
+## <kbd>GITHUB MODE</kbd>
 
-<p>
-  Clean code.<br>
-  Secure systems.<br>
-  Fast delivery.<br>
-  No unnecessary drama.<br>
-  Spaghetti belongs on the plate, not in the project.
-</p>
+### Repositories
 
-    </td>
-  </tr>
-</table>
+Kod depoları düzenli tutulur.  
+Çöp dosya, gereksiz karmaşa, “final-final-son.zip” yok.
 
-<br>
+### Commits
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td bgcolor="#161b22" align="left">
+Ne değiştiyse belli olur.  
+Commit mesajı fal bakar gibi okunmaz.
 
-<table cellpadding="10" cellspacing="0">
-  <tr>
-    <td bgcolor="#0d1117" align="left">
-      <strong>CONTACT / İLETİŞİM</strong>
-    </td>
-  </tr>
-</table>
+### Branches
 
-<p>
-  <strong>Website</strong><br>
-  <a href="https://e-devtech.com/">e-devtech.com</a>
-</p>
+Main branch kutsaldır.  
+Deneme tahtası gibi kullanılmaz.
 
-<p>
-  <strong>Corporate Mail</strong><br>
-  <a href="mailto:erdicaneroglu@e-devtech.com">erdicaneroglu@e-devtech.com</a>
-</p>
+### Deploy
 
-<p>
-  <strong>Personal Mail</strong><br>
-  <a href="mailto:erdicanerogluinfo@gmail.com">erdicanerogluinfo@gmail.com</a>
-</p>
+Kod sadece localde değil, gerçek ortamda da çalışır.  
+Asıl mevzu orada başlar.
 
-<hr>
+---
 
-<p>
-  <strong>TR:</strong> Web yazılım, otomasyon, özel sistemler ve siber güvenlik çözümleri için iletişime geçebilirsiniz.<br>
-  <strong>EN:</strong> Contact me for web software, automation, custom systems and cyber security solutions.
-</p>
+## <kbd>FINAL NOT</kbd>
 
-    </td>
-  </tr>
-</table>
+Clean code.  
+Secure systems.  
+Fast delivery.  
+No unnecessary drama.  
+Spaghetti belongs on the plate, not in the project.
+
+---
+
+## <kbd>CONTACT / İLETİŞİM</kbd>
+
+### Website
+
+[e-devtech.com](https://e-devtech.com/)
+
+### Corporate Mail
+
+[erdicaneroglu@e-devtech.com](mailto:erdicaneroglu@e-devtech.com)
+
+### Personal Mail
+
+[erdicanerogluinfo@gmail.com](mailto:erdicanerogluinfo@gmail.com)
+
+---
+
+**TR:** Web yazılım, otomasyon, özel sistemler ve siber güvenlik çözümleri için iletişime geçebilirsiniz.  
+**EN:** Contact me for web software, automation, custom systems and cyber security solutions.
