@@ -4,10 +4,12 @@
   <img src="./edev-logo.png" width="120" alt="E-DevTech Logo">
 </a>
 
-# Erdican Eroğlu
+<h1>Erdican Eroğlu</h1>
 
-**Full-Stack Developer • Cyber Security • Automation Systems**  
-**Yazılım • Siber Güvenlik • Otomasyon • AI Destekli Sistemler**
+<p>
+  <strong>Full-Stack Developer • Cyber Security • Automation Systems</strong><br>
+  <strong>Yazılım • Siber Güvenlik • Otomasyon • AI Destekli Sistemler</strong>
+</p>
 
 <p>
   <a href="https://e-devtech.com/">
@@ -27,6 +29,8 @@
   </a>
 </p>
 
+</div>
+
 ```bash
 erdican@edevtech:~$ whoami
 Full-Stack Developer | Cyber Security | Automation Builder
@@ -38,115 +42,119 @@ erdican@edevtech:~$ motto
 Spagetti kod tabakta güzel, projede değil.
 ```
 
-</div>
+<div align="center">
 
 ---
 
-## Kod Tarafında Kim Bu Adam?
+<h2>Kod Tarafında Kim Bu Adam?</h2>
 
-### TR
-E-DevTech tarafında web yazılım, otomasyon, API entegrasyonu, özel yönetim arayüzleri ve siber güvenlik odaklı çözümler geliştiriyorum.
+<h3>TR</h3>
 
-Çalışma tarzım net:
+<p>
+E-DevTech tarafında web yazılım, otomasyon, API entegrasyonu,<br>
+özel yönetim arayüzleri ve siber güvenlik odaklı çözümler geliştiriyorum.
+</p>
 
-- Önce sistemi anlarım.
-- Sonra temiz kurarım.
-- Sonra gereksiz karmaşayı çöpe yollarım.
+<p>
+<strong>Çalışma tarzım net:</strong><br><br>
+Önce sistemi anlarım.<br>
+Sonra temiz kurarım.<br>
+Sonra gereksiz karmaşayı çöpe yollarım.
+</p>
 
-### EN
-I build web applications, automation systems, API integrations, custom admin interfaces and security-focused solutions under E-DevTech.
+<h3>EN</h3>
 
-My working style is simple:
+<p>
+I build web applications, automation systems, API integrations,<br>
+custom admin interfaces and security-focused solutions under E-DevTech.
+</p>
 
-- Understand the system.
-- Build it clean.
-- Remove the chaos.
-
----
-
-## Skill Inventory
-
-<details open>
-<summary><strong>Frontend Masası</strong></summary>
-
-- HTML
-- CSS
-- JavaScript
-- Responsive UI
-- Landing Page
-- Modern Interface
-- Kullanıcıyı yormayan tasarım
-
-</details>
-
-<details open>
-<summary><strong>Backend Kazanı</strong></summary>
-
-- PHP
-- Laravel
-- Node.js
-- REST API
-- Dashboard Systems
-- Auth Systems
-- Database Logic
-
-</details>
-
-<details open>
-<summary><strong>Güvenlik Odası</strong></summary>
-
-- Web Security
-- Linux Security
-- Server Hardening
-- Basic Pentest
-- Access Control
-- Security Checks
-- “Bunu kim açık bıraktı?” analizi
-
-</details>
-
-<details open>
-<summary><strong>Otomasyon Garajı</strong></summary>
-
-- Python Bots
-- VDS Automation
-- n8n Workflows
-- Webhook Systems
-- Macro Systems
-- Task Automation
-- Tekrarlı işi robota kilitleme
-
-</details>
-
-<details open>
-<summary><strong>AI Tezgahı</strong></summary>
-
-- AI Assisted Coding
-- Prompt Systems
-- AI Workflow Design
-- Smart Automation
-- AI Agents
-- Business Automation
-- “Bunu yapay zekaya yaptıralım” bölümü
-
-</details>
-
-<details open>
-<summary><strong>Server Tarafı</strong></summary>
-
-- Linux Server
-- Hosting Setup
-- Git / GitHub
-- Deployment
-- Backup Systems
-- Domain / SSL Setup
-- Sunucu triplerini çözme
-
-</details>
+<p>
+<strong>My working style is simple:</strong><br><br>
+Understand the system.<br>
+Build it clean.<br>
+Remove the chaos.
+</p>
 
 ---
 
-## Tech Stack
+<h2>Skill Inventory</h2>
+
+<h3>Frontend Masası</h3>
+
+<p>
+HTML<br>
+CSS<br>
+JavaScript<br>
+Responsive UI<br>
+Landing Page<br>
+Modern Interface<br>
+Kullanıcıyı yormayan tasarım
+</p>
+
+<h3>Backend Kazanı</h3>
+
+<p>
+PHP<br>
+Laravel<br>
+Node.js<br>
+REST API<br>
+Dashboard Systems<br>
+Auth Systems<br>
+Database Logic
+</p>
+
+<h3>Güvenlik Odası</h3>
+
+<p>
+Web Security<br>
+Linux Security<br>
+Server Hardening<br>
+Basic Pentest<br>
+Access Control<br>
+Security Checks<br>
+“Bunu kim açık bıraktı?” analizi
+</p>
+
+<h3>Otomasyon Garajı</h3>
+
+<p>
+Python Bots<br>
+VDS Automation<br>
+n8n Workflows<br>
+Webhook Systems<br>
+Macro Systems<br>
+Task Automation<br>
+Tekrarlı işi robota kilitleme
+</p>
+
+<h3>AI Tezgahı</h3>
+
+<p>
+AI Assisted Coding<br>
+Prompt Systems<br>
+AI Workflow Design<br>
+Smart Automation<br>
+AI Agents<br>
+Business Automation<br>
+“Bunu yapay zekaya yaptıralım” bölümü
+</p>
+
+<h3>Server Tarafı</h3>
+
+<p>
+Linux Server<br>
+Hosting Setup<br>
+Git / GitHub<br>
+Deployment<br>
+Backup Systems<br>
+Domain / SSL Setup<br>
+Sunucu triplerini çözme
+</p>
+
+---
+
+<h2>Tech Stack</h2>
 
 <p>
   <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=ff7a1a" alt="HTML">
@@ -173,67 +181,141 @@ My working style is simple:
 
 ---
 
-## Ne İnşa Ediyoruz?
+<h2>Ne İnşa Ediyoruz?</h2>
 
-### Web Siteleri
-[Kurumsal web sitesi, landing page, hizmet sayfaları ve modern arayüzler.](https://e-devtech.com/)
+<h3>Web Siteleri</h3>
 
-### Yönetim Arayüzleri
-[Dashboard, kullanıcı yönetimi, yetkilendirme ve özel iş takip sistemleri.](https://e-devtech.com/)
+<p>
+<a href="https://e-devtech.com/">
+Kurumsal web sitesi, landing page, hizmet sayfaları ve modern arayüzler.
+</a>
+</p>
 
-### Otomasyon Botları
-[VDS üzerinde çalışan botlar, makrolar, n8n akışları ve webhook sistemleri.](https://e-devtech.com/)
+<h3>Yönetim Arayüzleri</h3>
 
-### API Entegrasyonları
-[WhatsApp, Google servisleri, ödeme sistemleri, CRM ve özel API bağlantıları.](https://e-devtech.com/)
+<p>
+<a href="https://e-devtech.com/">
+Dashboard, kullanıcı yönetimi, yetkilendirme ve özel iş takip sistemleri.
+</a>
+</p>
 
-### Siber Güvenlik
-[Web güvenliği, sunucu güvenliği, temel kontrol ve güvenli yapılandırma.](https://e-devtech.com/)
+<h3>Otomasyon Botları</h3>
 
-### AI Destekli Sistemler
-[AI destekli iş akışları, otomasyon fikirleri ve üretken yazılım çözümleri.](https://e-devtech.com/)
+<p>
+<a href="https://e-devtech.com/">
+VDS üzerinde çalışan botlar, makrolar, n8n akışları ve webhook sistemleri.
+</a>
+</p>
+
+<h3>API Entegrasyonları</h3>
+
+<p>
+<a href="https://e-devtech.com/">
+WhatsApp, Google servisleri, ödeme sistemleri, CRM ve özel API bağlantıları.
+</a>
+</p>
+
+<h3>Siber Güvenlik</h3>
+
+<p>
+<a href="https://e-devtech.com/">
+Web güvenliği, sunucu güvenliği, temel kontrol ve güvenli yapılandırma.
+</a>
+</p>
+
+<h3>AI Destekli Sistemler</h3>
+
+<p>
+<a href="https://e-devtech.com/">
+AI destekli iş akışları, otomasyon fikirleri ve üretken yazılım çözümleri.
+</a>
+</p>
 
 ---
 
-## Projeler & İşler
+<h2>Projeler & İşler</h2>
 
-### E-DevTech Website
-[Yazılım, teknoloji ve dijital çözüm hizmetleri için kurumsal web yapısı.](https://e-devtech.com/)
+<h3>E-DevTech Website</h3>
 
-### Automation Systems
-[Bot, webhook, VDS makro ve workflow tabanlı sistemler.](https://e-devtech.com/)
+<p>
+<a href="https://e-devtech.com/">
+Yazılım, teknoloji ve dijital çözüm hizmetleri için kurumsal web yapısı.
+</a>
+</p>
 
-### Custom Admin Interfaces
-[Müşteri ihtiyacına göre özel yönetim ekranı ve dashboard sistemleri.](https://e-devtech.com/)
+<h3>Automation Systems</h3>
 
-### Business Websites
-[İşletmeler için hızlı, sade, mobil uyumlu ve yönetilebilir web siteleri.](https://e-devtech.com/)
+<p>
+<a href="https://e-devtech.com/">
+Bot, webhook, VDS makro ve workflow tabanlı sistemler.
+</a>
+</p>
 
-### API Based Systems
-[Harici servislerle konuşan özel yazılım ve entegrasyon çözümleri.](https://e-devtech.com/)
+<h3>Custom Admin Interfaces</h3>
 
-### Server Setup
-[Linux sunucu, hosting, SSL, domain, backup ve bakım işlemleri.](https://e-devtech.com/)
+<p>
+<a href="https://e-devtech.com/">
+Müşteri ihtiyacına göre özel yönetim ekranı ve dashboard sistemleri.
+</a>
+</p>
+
+<h3>Business Websites</h3>
+
+<p>
+<a href="https://e-devtech.com/">
+İşletmeler için hızlı, sade, mobil uyumlu ve yönetilebilir web siteleri.
+</a>
+</p>
+
+<h3>API Based Systems</h3>
+
+<p>
+<a href="https://e-devtech.com/">
+Harici servislerle konuşan özel yazılım ve entegrasyon çözümleri.
+</a>
+</p>
+
+<h3>Server Setup</h3>
+
+<p>
+<a href="https://e-devtech.com/">
+Linux sunucu, hosting, SSL, domain, backup ve bakım işlemleri.
+</a>
+</p>
 
 ---
 
-## Çalışma Modu
+<h2>Çalışma Modu</h2>
 
-### Önce Anla
-Sistemi anlamadan kod yazmak yok.  
+<h3>Önce Anla</h3>
+
+<p>
+Sistemi anlamadan kod yazmak yok.<br>
 Direkt dalarsan kod değil, kazı alanı çıkar.
+</p>
 
-### Temiz Kur
-Kod okunacak.  
+<h3>Temiz Kur</h3>
+
+<p>
+Kod okunacak.<br>
 Yarın bakan kişi küfür etmeyecek.
+</p>
 
-### Güvenli Bırak
-Açık kapı bırakmak yok.  
+<h3>Güvenli Bırak</h3>
+
+<p>
+Açık kapı bırakmak yok.<br>
 Anahtarı paspas altına koymuyoruz.
+</p>
 
-### Çalışır Teslim Et
-“Bende çalışıyor” cümlesi yasak.  
+<h3>Çalışır Teslim Et</h3>
+
+<p>
+“Bende çalışıyor” cümlesi yasak.<br>
 Gerçek ortamda çalışacak.
+</p>
+
+</div>
 
 ---
 
@@ -253,29 +335,45 @@ Clean system shipped.
 Status: no drama, just delivery.
 ```
 
+<div align="center">
+
 ---
 
-## GitHub Mode
+<h2>GitHub Mode</h2>
 
-### Repositories
-Kod depoları düzenli tutulur.  
+<h3>Repositories</h3>
+
+<p>
+Kod depoları düzenli tutulur.<br>
 Çöp dosya, gereksiz karmaşa, “final-final-son.zip” yok.
+</p>
 
-### Commits
-Ne değiştiyse belli olur.  
+<h3>Commits</h3>
+
+<p>
+Ne değiştiyse belli olur.<br>
 Commit mesajı fal bakar gibi okunmaz.
+</p>
 
-### Branches
-Main branch kutsaldır.  
+<h3>Branches</h3>
+
+<p>
+Main branch kutsaldır.<br>
 Deneme tahtası gibi kullanılmaz.
+</p>
 
-### Deploy
-Kod sadece localde değil, gerçek ortamda da çalışır.  
+<h3>Deploy</h3>
+
+<p>
+Kod sadece localde değil, gerçek ortamda da çalışır.<br>
 Asıl mevzu orada başlar.
+</p>
 
 ---
 
-## Final Not
+<h2>Final Not</h2>
+
+</div>
 
 ```text
 Clean code.
@@ -285,24 +383,39 @@ No unnecessary drama.
 Spaghetti belongs on the plate, not in the project.
 ```
 
----
-
-## Contact / İletişim
-
-**Website**  
-[e-devtech.com](https://e-devtech.com/)
-
-**Corporate Mail**  
-[erdicaneroglu@e-devtech.com](mailto:erdicaneroglu@e-devtech.com)
-
-**Personal Mail**  
-[erdicanerogluinfo@gmail.com](mailto:erdicanerogluinfo@gmail.com)
-
----
-
 <div align="center">
 
-**TR:** Web yazılım, otomasyon, özel sistemler ve siber güvenlik çözümleri için iletişime geçebilirsiniz.  
-**EN:** Contact me for web software, automation, custom systems and cyber security solutions.
+---
+
+<h2>Contact / İletişim</h2>
+
+<h3>Website</h3>
+
+<p>
+<a href="https://e-devtech.com/">e-devtech.com</a>
+</p>
+
+<h3>Corporate Mail</h3>
+
+<p>
+<a href="mailto:erdicaneroglu@e-devtech.com">
+erdicaneroglu@e-devtech.com
+</a>
+</p>
+
+<h3>Personal Mail</h3>
+
+<p>
+<a href="mailto:erdicanerogluinfo@gmail.com">
+erdicanerogluinfo@gmail.com
+</a>
+</p>
+
+---
+
+<p>
+<strong>TR:</strong> Web yazılım, otomasyon, özel sistemler ve siber güvenlik çözümleri için iletişime geçebilirsiniz.<br>
+<strong>EN:</strong> Contact me for web software, automation, custom systems and cyber security solutions.
+</p>
 
 </div>
