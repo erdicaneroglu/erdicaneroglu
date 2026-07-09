@@ -45,7 +45,7 @@ Spagetti kod tabakta güzel, projede değil.
 ## Kod Tarafında Kim Bu Adam?
 
 ### TR
-E-DevTech tarafında web yazılım, otomasyon, API entegrasyonu, özel panel sistemleri ve siber güvenlik odaklı çözümler geliştiriyorum.
+E-DevTech tarafında web yazılım, otomasyon, API entegrasyonu, özel yönetim arayüzleri ve siber güvenlik odaklı çözümler geliştiriyorum.
 
 Çalışma tarzım net:
 
@@ -54,7 +54,7 @@ E-DevTech tarafında web yazılım, otomasyon, API entegrasyonu, özel panel sis
 - Sonra gereksiz karmaşayı çöpe yollarım.
 
 ### EN
-I build web applications, automation systems, API integrations, custom admin panels and security-focused solutions under E-DevTech.
+I build web applications, automation systems, API integrations, custom admin interfaces and security-focused solutions under E-DevTech.
 
 My working style is simple:
 
@@ -86,7 +86,7 @@ My working style is simple:
 - Laravel
 - Node.js
 - REST API
-- Admin Panel
+- Dashboard Systems
 - Auth Systems
 - Database Logic
 
@@ -178,8 +178,8 @@ My working style is simple:
 ### Web Siteleri
 [Kurumsal web sitesi, landing page, hizmet sayfaları ve modern arayüzler.](https://e-devtech.com/)
 
-### Panel Sistemleri
-[Admin panel, dashboard, kullanıcı yönetimi ve özel iş takip sistemleri.](https://e-devtech.com/)
+### Yönetim Arayüzleri
+[Dashboard, kullanıcı yönetimi, yetkilendirme ve özel iş takip sistemleri.](https://e-devtech.com/)
 
 ### Otomasyon Botları
 [VDS üzerinde çalışan botlar, makrolar, n8n akışları ve webhook sistemleri.](https://e-devtech.com/)
@@ -203,8 +203,8 @@ My working style is simple:
 ### Automation Systems
 [Bot, webhook, VDS makro ve workflow tabanlı sistemler.](https://e-devtech.com/)
 
-### Custom Web Panels
-[Müşteri ihtiyacına göre özel yönetim paneli ve dashboard sistemleri.](https://e-devtech.com/)
+### Custom Admin Interfaces
+[Müşteri ihtiyacına göre özel yönetim ekranı ve dashboard sistemleri.](https://e-devtech.com/)
 
 ### Business Websites
 [İşletmeler için hızlı, sade, mobil uyumlu ve yönetilebilir web siteleri.](https://e-devtech.com/)
@@ -302,7 +302,7 @@ Spaghetti belongs on the plate, not in the project.
 
 <div align="center">
 
-**TR:** Web yazılım, otomasyon, panel sistemleri ve siber güvenlik çözümleri için iletişime geçebilirsiniz.  
-**EN:** Contact me for web software, automation, custom panels and cyber security solutions.
+**TR:** Web yazılım, otomasyon, özel sistemler ve siber güvenlik çözümleri için iletişime geçebilirsiniz.  
+**EN:** Contact me for web software, automation, custom systems and cyber security solutions.
 
 </div>
