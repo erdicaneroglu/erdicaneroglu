@@ -22,6 +22,9 @@
 <tr>
 <td align="center" width="33%">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <a href="https://e-devtech.com/">
 <strong>Web Lab</strong><br>
 e-devtech.com
@@ -30,6 +33,9 @@ e-devtech.com
 </td>
 <td align="center" width="33%">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <a href="mailto:erdicaneroglu@e-devtech.com">
 <strong>Kurumsal Hat</strong><br>
 erdicaneroglu@e-devtech.com
@@ -37,6 +43,9 @@ erdicaneroglu@e-devtech.com
 
 </td>
 <td align="center" width="33%">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <a href="mailto:erdicanerogluinfo@gmail.com">
 <strong>Kahve & Kod Hattı</strong><br>
@@ -75,7 +84,7 @@ Spagetti kod tabakta güzel, projede değil.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
 Kod Tarafında Kim Bu Adam?
 </h2>
 
@@ -117,7 +126,7 @@ Remove the chaos.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
 Skill Inventory
 </h2>
 
@@ -126,6 +135,9 @@ Skill Inventory
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Frontend Masası</h3>
 
@@ -140,6 +152,9 @@ Kullanıcıyı yormayan tasarım
 </td>
 <td align="center" width="33%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Backend Kazanı</h3>
 
 PHP<br>
@@ -152,6 +167,9 @@ Database Logic
 
 </td>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Güvenlik Odası</h3>
 
@@ -169,6 +187,9 @@ Security Checks<br>
 <tr>
 <td align="center" width="33%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Otomasyon Garajı</h3>
 
 Python Bots<br>
@@ -182,6 +203,9 @@ Tekrarlı işi robota kilitleme
 </td>
 <td align="center" width="33%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>AI Tezgahı</h3>
 
 AI Assisted Coding<br>
@@ -194,6 +218,9 @@ Business Automation<br>
 
 </td>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Server Tarafı</h3>
 
@@ -214,7 +241,7 @@ Sunucu triplerini çözme
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
 Tech Stack
 </h2>
 
@@ -222,32 +249,155 @@ Tech Stack
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="20%">HTML</td>
-<td align="center" width="20%">CSS</td>
-<td align="center" width="20%">JavaScript</td>
-<td align="center" width="20%">PHP</td>
-<td align="center" width="20%">Laravel</td>
+<td align="center" width="20%">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+HTML
+
+</td>
+<td align="center" width="20%">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+CSS
+
+</td>
+<td align="center" width="20%">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+JavaScript
+
+</td>
+<td align="center" width="20%">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+PHP
+
+</td>
+<td align="center" width="20%">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+Laravel
+
+</td>
 </tr>
+
 <tr>
-<td align="center">Node.js</td>
-<td align="center">React</td>
-<td align="center">Python</td>
-<td align="center">MySQL</td>
-<td align="center">REST API</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+Node.js
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+React
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+Python
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+MySQL
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+REST API
+
+</td>
 </tr>
+
 <tr>
-<td align="center">Linux</td>
-<td align="center">Git</td>
-<td align="center">GitHub</td>
-<td align="center">Docker</td>
-<td align="center">n8n</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+Linux
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+Git
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+GitHub
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+Docker
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+n8n
+
+</td>
 </tr>
+
 <tr>
-<td align="center">VDS</td>
-<td align="center">Webhook</td>
-<td align="center">Automation</td>
-<td align="center">Cyber Security</td>
-<td align="center">AI Tools</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+VDS
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+Webhook
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+Automation
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+Cyber<br>Security
+
+</td>
+<td align="center">
+
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
+<br><br>
+AI Tools
+
+</td>
 </tr>
 </table>
 
@@ -256,7 +406,7 @@ Tech Stack
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
 Ne İnşa Ediyoruz?
 </h2>
 
@@ -265,6 +415,9 @@ Ne İnşa Ediyoruz?
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Web Siteleri</h3>
 
@@ -275,6 +428,9 @@ Kurumsal web sitesi, landing page, hizmet sayfaları ve modern arayüzler.
 </td>
 <td align="center" width="33%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Panel Sistemleri</h3>
 
 <a href="https://e-devtech.com/">
@@ -283,6 +439,9 @@ Admin panel, dashboard, kullanıcı yönetimi ve özel iş takip sistemleri.
 
 </td>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Otomasyon Botları</h3>
 
@@ -296,6 +455,9 @@ VDS üzerinde çalışan botlar, makrolar, n8n akışları ve webhook sistemleri
 <tr>
 <td align="center" width="33%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>API Entegrasyonları</h3>
 
 <a href="https://e-devtech.com/">
@@ -305,6 +467,9 @@ WhatsApp, Google servisleri, ödeme sistemleri, CRM ve özel API bağlantıları
 </td>
 <td align="center" width="33%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Siber Güvenlik</h3>
 
 <a href="https://e-devtech.com/">
@@ -313,6 +478,9 @@ Web güvenliği, sunucu güvenliği, temel kontrol ve güvenli yapılandırma.
 
 </td>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>AI Destekli Sistemler</h3>
 
@@ -329,7 +497,7 @@ AI destekli iş akışları, otomasyon fikirleri ve üretken yazılım çözüml
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
 Projeler & İşler
 </h2>
 
@@ -338,6 +506,9 @@ Projeler & İşler
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>E-DevTech Website</h3>
 
@@ -348,6 +519,9 @@ Yazılım, teknoloji ve dijital çözüm hizmetleri için kurumsal web yapısı.
 </td>
 <td align="center" width="33%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Automation Systems</h3>
 
 <a href="https://e-devtech.com/">
@@ -356,6 +530,9 @@ Bot, webhook, VDS makro ve workflow tabanlı sistemler.
 
 </td>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Custom Web Panels</h3>
 
@@ -369,6 +546,9 @@ Müşteri ihtiyacına göre özel yönetim paneli ve dashboard sistemleri.
 <tr>
 <td align="center" width="33%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Business Websites</h3>
 
 <a href="https://e-devtech.com/">
@@ -378,6 +558,9 @@ Müşteri ihtiyacına göre özel yönetim paneli ve dashboard sistemleri.
 </td>
 <td align="center" width="33%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>API Based Systems</h3>
 
 <a href="https://e-devtech.com/">
@@ -386,6 +569,9 @@ Harici servislerle konuşan özel yazılım ve entegrasyon çözümleri.
 
 </td>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Server Setup</h3>
 
@@ -402,7 +588,7 @@ Linux sunucu, hosting, SSL, domain, backup ve bakım işlemleri.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
 Çalışma Modu
 </h2>
 
@@ -412,6 +598,9 @@ Linux sunucu, hosting, SSL, domain, backup ve bakım işlemleri.
 <tr>
 <td align="center" width="25%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Önce Anla</h3>
 
 Sistemi anlamadan kod yazmak yok.  
@@ -419,6 +608,9 @@ Direkt dalarsan kod değil, kazı alanı çıkar.
 
 </td>
 <td align="center" width="25%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Temiz Kur</h3>
 
@@ -428,6 +620,9 @@ Yarın bakan kişi küfür etmeyecek.
 </td>
 <td align="center" width="25%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Güvenli Bırak</h3>
 
 Açık kapı bırakmak yok.  
@@ -435,6 +630,9 @@ Anahtarı paspas altına koymuyoruz.
 
 </td>
 <td align="center" width="25%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Çalışır Teslim Et</h3>
 
@@ -450,7 +648,7 @@ Gerçek ortamda çalışacak.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
 Developer Terminal
 </h2>
 
@@ -483,7 +681,7 @@ Status: no drama, just delivery.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
 GitHub Mode
 </h2>
 
@@ -493,6 +691,9 @@ GitHub Mode
 <tr>
 <td align="center" width="25%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Repositories</h3>
 
 Kod depoları düzenli tutulur.  
@@ -500,6 +701,9 @@ Kod depoları düzenli tutulur.
 
 </td>
 <td align="center" width="25%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Commits</h3>
 
@@ -509,6 +713,9 @@ Commit mesajı fal bakar gibi okunmaz.
 </td>
 <td align="center" width="25%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Branches</h3>
 
 Main branch kutsaldır.  
@@ -516,6 +723,9 @@ Deneme tahtası gibi kullanılmaz.
 
 </td>
 <td align="center" width="25%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Deploy</h3>
 
@@ -531,7 +741,7 @@ Asıl mevzu orada başlar.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
 Final Not
 </h2>
 
@@ -558,7 +768,7 @@ Spaghetti belongs on the plate, not in the project.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22" alt="E-DevTech Logo">
 Contact / İletişim
 </h2>
 
@@ -567,6 +777,9 @@ Contact / İletişim
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Website</h3>
 
@@ -577,6 +790,9 @@ e-devtech.com
 </td>
 <td align="center" width="33%" valign="top">
 
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
+
 <h3>Corporate Mail</h3>
 
 <a href="mailto:erdicaneroglu@e-devtech.com">
@@ -585,6 +801,9 @@ erdicaneroglu@e-devtech.com
 
 </td>
 <td align="center" width="33%" valign="top">
+
+<img src="./edev-logo.png" width="24" alt="E-DevTech Logo">
+<br><br>
 
 <h3>Personal Mail</h3>
 
