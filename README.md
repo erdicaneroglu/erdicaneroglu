@@ -1,54 +1,72 @@
 <div align="center">
 
 <a href="https://e-devtech.com/">
-  <kbd>
-    <img src="./edev-logo.png" width="135" alt="E-DevTech Logo">
-  </kbd>
+  <img 
+    src="./edev-logo.png" 
+    width="135" 
+    alt="E-DevTech Logo"
+    style="border-radius:50%; border:3px solid #ff7a1a; padding:14px; background:#0d1117;"
+  >
 </a>
 
 <br><br>
 
 # Erdican Eroğlu
 
-### Full Stack Developer • Cyber Security • Automation Systems
+### Full Stack Developer • Cyber Security • Automation Systems  
+### Yazılım • Siber Güvenlik • Otomasyon • AI Destekli Sistemler
 
 <br>
 
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%">
+
 <a href="https://e-devtech.com/">
 <strong>Web Lab</strong><br>
 e-devtech.com
 </a>
+
 </td>
 <td align="center" width="33%">
+
 <a href="mailto:erdicaneroglu@e-devtech.com">
 <strong>Kurumsal Hat</strong><br>
 erdicaneroglu@e-devtech.com
 </a>
+
 </td>
 <td align="center" width="33%">
+
 <a href="mailto:erdicanerogluinfo@gmail.com">
 <strong>Kahve & Kod Hattı</strong><br>
 erdicanerogluinfo@gmail.com
 </a>
+
 </td>
 </tr>
 </table>
 
 <br>
 
-<pre>
-$ whoami
-Erdican Eroğlu
+<table align="center" width="100%">
+<tr>
+<td align="center">
 
-$ mode
+<pre>
+erdican@edevtech:~$ whoami
+Full Stack Developer | Cyber Security | Automation Builder
+
+erdican@edevtech:~$ mode
 Build. Break. Fix. Ship.
 
-$ motto
-Spagetti kod yazmam. Yazdırmam. Görürsem refactorlarım.
+erdican@edevtech:~$ motto
+Spagetti kod tabakta güzel, projede değil.
 </pre>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -57,7 +75,7 @@ Spagetti kod yazmam. Yazdırmam. Görürsem refactorlarım.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22">
+<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
 Kod Tarafında Kim Bu Adam?
 </h2>
 
@@ -71,8 +89,11 @@ Kod Tarafında Kim Bu Adam?
 
 E-DevTech tarafında web yazılım, otomasyon, API entegrasyonu, özel panel sistemleri ve siber güvenlik odaklı çözümler geliştiriyorum.
 
-Kafam net çalışır:  
-Önce sistemi anlarım, sonra temiz kurarım, sonra gereksiz karmaşayı çöpe yollarım.
+Kafam net çalışır:
+
+Önce sistemi anlarım.  
+Sonra temiz kurarım.  
+Sonra gereksiz karmaşayı çöpe yollarım.
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -81,8 +102,11 @@ Kafam net çalışır:
 
 I build web applications, automation systems, API integrations, custom admin panels and security-focused solutions under E-DevTech.
 
-My working style is simple:  
-Understand the system, build it clean, remove the chaos.
+My working style is simple:
+
+Understand the system.  
+Build it clean.  
+Remove the chaos.
 
 </td>
 </tr>
@@ -93,7 +117,7 @@ Understand the system, build it clean, remove the chaos.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22">
+<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
 Skill Inventory
 </h2>
 
@@ -190,7 +214,7 @@ Sunucu triplerini çözme
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22">
+<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
 Tech Stack
 </h2>
 
@@ -232,7 +256,7 @@ Tech Stack
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22">
+<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
 Ne İnşa Ediyoruz?
 </h2>
 
@@ -305,7 +329,7 @@ AI destekli iş akışları, otomasyon fikirleri ve üretken yazılım çözüml
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22">
+<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
 Projeler & İşler
 </h2>
 
@@ -378,7 +402,7 @@ Linux sunucu, hosting, SSL, domain, backup ve bakım işlemleri.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22">
+<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
 Çalışma Modu
 </h2>
 
@@ -426,7 +450,7 @@ Gerçek ortamda çalışacak.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22">
+<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
 Developer Terminal
 </h2>
 
@@ -459,24 +483,55 @@ Status: no drama, just delivery.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22">
-GitHub Stats
+<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+GitHub Mode
 </h2>
 
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erdicaneroglu&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdicaneroglu&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%" valign="top">
+
+<h3>Repositories</h3>
+
+Kod depoları düzenli tutulur.  
+Çöp dosya, gereksiz karmaşa, “final-final-son.zip” yok.
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<h3>Commits</h3>
+
+Ne değiştiyse belli olur.  
+Commit mesajı fal bakar gibi okunmaz.
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<h3>Branches</h3>
+
+Main branch kutsaldır.  
+Deneme tahtası gibi kullanılmaz.
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<h3>Deploy</h3>
+
+Kod sadece localde değil, gerçek ortamda da çalışır.  
+Asıl mevzu orada başlar.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22">
+<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
 Final Not
 </h2>
 
@@ -503,7 +558,7 @@ Spaghetti belongs on the plate, not in the project.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="22">
+<img src="./edev-logo.png" width="22" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
 Contact / İletişim
 </h2>
 
