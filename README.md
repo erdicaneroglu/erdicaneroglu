@@ -1,9 +1,9 @@
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 <a href="https://e-devtech.com/">
-  <img src="./edev-logo.png" width="120" alt="E-DevTech Logo">
+  <img src="./edev-logo.png" width="135" alt="E-DevTech Logo">
 </a>
 
 # Erdican Eroğlu
@@ -11,25 +11,37 @@
 **Full-Stack Developer • Cyber Security • Automation Systems**  
 **Yazılım • Siber Güvenlik • Otomasyon • AI Destekli Sistemler**
 
+<br>
+
+**Web Lab**  
+<br>
 <a href="https://e-devtech.com/">
-  <img src="https://img.shields.io/badge/Web%20Lab-e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="E-DevTech Website">
+  <img src="https://img.shields.io/badge/e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="E-DevTech Website">
 </a>
 
+<br><br>
+
+**Corporate Mail**  
+<br>
 <a href="mailto:erdicaneroglu@e-devtech.com">
-  <img src="https://img.shields.io/badge/Corporate%20Mail-erdicaneroglu%40e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Corporate Mail">
+  <img src="https://img.shields.io/badge/erdicaneroglu%40e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Corporate Mail">
 </a>
 
+<br><br>
+
+**Personal Mail**  
+<br>
 <a href="mailto:erdicanerogluinfo@gmail.com">
-  <img src="https://img.shields.io/badge/Personal%20Mail-erdicanerogluinfo%40gmail.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Personal Mail">
+  <img src="https://img.shields.io/badge/erdicanerogluinfo%40gmail.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Personal Mail">
 </a>
 
 </td>
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ```bash
 erdican@edevtech:~$ whoami
@@ -46,9 +58,9 @@ Spagetti kod tabakta güzel, projede değil.
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ## Kod Tarafında Kim Bu Adam?
 
@@ -64,7 +76,7 @@ E-DevTech tarafında web yazılım, otomasyon, API entegrasyonu, özel yönetim 
 
 ### EN
 
-I build web applications, automation systems, API integrations, custom admin interfaces and security-focused solutions under E-DevTech.
+I build web applications, automation systems, API integrations, custom management interfaces and security-focused solutions under E-DevTech.
 
 **My working style is simple:**
 
@@ -76,9 +88,9 @@ I build web applications, automation systems, API integrations, custom admin int
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ## Skill Inventory
 
@@ -146,9 +158,9 @@ I build web applications, automation systems, API integrations, custom admin int
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ## Tech Stack
 
@@ -179,9 +191,9 @@ I build web applications, automation systems, API integrations, custom admin int
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ## Ne İnşa Ediyoruz?
 
@@ -213,9 +225,9 @@ I build web applications, automation systems, API integrations, custom admin int
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ## Projeler & İşler
 
@@ -227,7 +239,7 @@ I build web applications, automation systems, API integrations, custom admin int
 
 [Bot, webhook, VDS makro ve workflow tabanlı sistemler.](https://e-devtech.com/)
 
-### Custom Admin Interfaces
+### Custom Management Interfaces
 
 [Müşteri ihtiyacına göre özel yönetim ekranı ve dashboard sistemleri.](https://e-devtech.com/)
 
@@ -247,9 +259,9 @@ I build web applications, automation systems, API integrations, custom admin int
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ## Çalışma Modu
 
@@ -277,9 +289,9 @@ Gerçek ortamda çalışacak.
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ## Developer Terminal
 
@@ -301,9 +313,9 @@ Status: no drama, just delivery.
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ## GitHub Mode
 
@@ -331,9 +343,9 @@ Asıl mevzu orada başlar.
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ## Final Not
 
@@ -349,9 +361,9 @@ Spaghetti belongs on the plate, not in the project.
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#161b22" align="left">
 
 ## Contact / İletişim
 
