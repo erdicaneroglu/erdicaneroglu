@@ -1,9 +1,9 @@
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
 <a href="https://e-devtech.com/">
-  <img src="./edev-logo.png" width="135" alt="E-DevTech Logo">
+  <img src="./edev-logo.png" width="130" alt="E-DevTech Logo">
 </a>
 
 # Erdican Eroğlu
@@ -11,35 +11,32 @@
 **Full-Stack Developer • Cyber Security • Automation Systems**  
 **Yazılım • Siber Güvenlik • Otomasyon • AI Destekli Sistemler**
 
-<br>
+<p>
+  <strong>Web Lab</strong><br>
+  <a href="https://e-devtech.com/">
+    <img src="https://img.shields.io/badge/e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="E-DevTech Website">
+  </a>
+</p>
 
-**Web Lab**  
-<br>
-<a href="https://e-devtech.com/">
-  <img src="https://img.shields.io/badge/e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="E-DevTech Website">
-</a>
+<p>
+  <strong>Corporate Mail</strong><br>
+  <a href="mailto:erdicaneroglu@e-devtech.com">
+    <img src="https://img.shields.io/badge/erdicaneroglu%40e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Corporate Mail">
+  </a>
+</p>
 
-<br><br>
-
-**Corporate Mail**  
-<br>
-<a href="mailto:erdicaneroglu@e-devtech.com">
-  <img src="https://img.shields.io/badge/erdicaneroglu%40e--devtech.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Corporate Mail">
-</a>
-
-<br><br>
-
-**Personal Mail**  
-<br>
-<a href="mailto:erdicanerogluinfo@gmail.com">
-  <img src="https://img.shields.io/badge/erdicanerogluinfo%40gmail.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Personal Mail">
-</a>
+<p>
+  <strong>Personal Mail</strong><br>
+  <a href="mailto:erdicanerogluinfo@gmail.com">
+    <img src="https://img.shields.io/badge/erdicanerogluinfo%40gmail.com-ff7a1a?style=for-the-badge&labelColor=0d1117" alt="Personal Mail">
+  </a>
+</p>
 
 </td>
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
@@ -58,7 +55,7 @@ Spagetti kod tabakta güzel, projede değil.
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
@@ -88,7 +85,7 @@ I build web applications, automation systems, API integrations, custom managemen
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
@@ -158,7 +155,7 @@ I build web applications, automation systems, API integrations, custom managemen
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
@@ -191,7 +188,7 @@ I build web applications, automation systems, API integrations, custom managemen
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
@@ -225,7 +222,7 @@ I build web applications, automation systems, API integrations, custom managemen
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
@@ -259,7 +256,7 @@ I build web applications, automation systems, API integrations, custom managemen
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
@@ -289,7 +286,7 @@ Gerçek ortamda çalışacak.
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
@@ -313,7 +310,7 @@ Status: no drama, just delivery.
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
@@ -343,7 +340,7 @@ Asıl mevzu orada başlar.
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
@@ -361,7 +358,7 @@ Spaghetti belongs on the plate, not in the project.
 </tr>
 </table>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
 <tr>
 <td bgcolor="#161b22" align="left">
 
