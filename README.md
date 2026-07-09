@@ -1,18 +1,15 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="220">
-
 <a href="https://e-devtech.com/">
-  <img src="./edev-logo.png" width="145" alt="E-DevTech Logo">
+  <img 
+    src="./edev-logo.png" 
+    width="145" 
+    alt="E-DevTech Logo"
+    style="border-radius:50%; border:3px solid #ff7a1a; padding:14px; background:#0d1117;"
+  >
 </a>
 
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 # Erdican Eroğlu
 
@@ -21,25 +18,31 @@
 
 <br>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center" width="260">
+<td align="center" width="33%">
+
 <a href="https://e-devtech.com/">
 <strong>Website</strong><br>
 e-devtech.com
 </a>
+
 </td>
-<td align="center" width="320">
+<td align="center" width="33%">
+
 <a href="mailto:erdicaneroglu@e-devtech.com">
 <strong>Corporate Mail</strong><br>
 erdicaneroglu@e-devtech.com
 </a>
+
 </td>
-<td align="center" width="320">
+<td align="center" width="33%">
+
 <a href="mailto:erdicanerogluinfo@gmail.com">
 <strong>Personal Mail</strong><br>
 erdicanerogluinfo@gmail.com
 </a>
+
 </td>
 </tr>
 </table>
@@ -50,24 +53,27 @@ erdicanerogluinfo@gmail.com
 
 <div align="center">
 
-## About / Hakkımda
+<h2>
+<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+About / Hakkımda
+</h2>
 
 </div>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### TR
+<h3>TR</h3>
 
 E-DevTech çatısı altında web yazılım, özel panel sistemleri, otomasyon çözümleri, API entegrasyonları ve siber güvenlik odaklı projeler geliştiriyorum.
 
 Hedefim sade, hızlı, güvenli ve uzun vadede sorunsuz çalışan sistemler kurmak.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### EN
+<h3>EN</h3>
 
 I build web applications, custom admin panels, automation systems, API integrations and cyber security focused software solutions under E-DevTech.
 
@@ -81,49 +87,52 @@ My goal is to develop clean, fast, secure and scalable systems.
 
 <div align="center">
 
-## Skills / Yetkinlikler
+<h2>
+<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+Skills / Yetkinlikler
+</h2>
 
 </div>
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td align="center" width="33%" valign="top">
 
-### Web Development
+<h3>Web Development</h3>
 
-HTML  
-CSS  
-JavaScript  
-PHP  
-Laravel  
-React  
-Node.js  
+HTML<br>
+CSS<br>
+JavaScript<br>
+PHP<br>
+Laravel<br>
+React<br>
+Node.js<br>
 Responsive UI
 
 </td>
 <td align="center" width="33%" valign="top">
 
-### Backend & API
+<h3>Backend & API</h3>
 
-REST API  
-Admin Panels  
-Database Systems  
-Authentication Systems  
-Server Side Logic  
-Custom CRM Panels  
+REST API<br>
+Admin Panels<br>
+Database Systems<br>
+Authentication Systems<br>
+Server Side Logic<br>
+Custom CRM Panels<br>
 Payment Integrations
 
 </td>
 <td align="center" width="33%" valign="top">
 
-### Cyber Security
+<h3>Cyber Security</h3>
 
-Web Security  
-Linux Security  
-Basic Pentest  
-Server Hardening  
-Secure System Setup  
-Security Checks  
+Web Security<br>
+Linux Security<br>
+Basic Pentest<br>
+Server Hardening<br>
+Secure System Setup<br>
+Security Checks<br>
 Access Control
 
 </td>
@@ -132,40 +141,40 @@ Access Control
 <tr>
 <td align="center" width="33%" valign="top">
 
-### Automation
+<h3>Automation</h3>
 
-Python Bots  
-VDS Automation  
-Workflow Systems  
-n8n Automations  
-Macro Systems  
-Webhook Systems  
+Python Bots<br>
+VDS Automation<br>
+Workflow Systems<br>
+n8n Automations<br>
+Macro Systems<br>
+Webhook Systems<br>
 Task Automation
 
 </td>
 <td align="center" width="33%" valign="top">
 
-### AI Tools
+<h3>AI Tools</h3>
 
-AI Assisted Coding  
-Prompt Engineering  
-AI Workflow Design  
-Smart Automation  
-AI Business Solutions  
-AI Agents  
+AI Assisted Coding<br>
+Prompt Engineering<br>
+AI Workflow Design<br>
+Smart Automation<br>
+AI Business Solutions<br>
+AI Agents<br>
 Process Optimization
 
 </td>
 <td align="center" width="33%" valign="top">
 
-### DevOps & Server
+<h3>DevOps & Server</h3>
 
-Linux Server  
-Hosting Setup  
-Git / GitHub  
-Deployment  
-Maintenance  
-Backup Systems  
+Linux Server<br>
+Hosting Setup<br>
+Git / GitHub<br>
+Deployment<br>
+Maintenance<br>
+Backup Systems<br>
 Domain / SSL Setup
 
 </td>
@@ -176,22 +185,27 @@ Domain / SSL Setup
 
 <div align="center">
 
-## Technologies / Teknolojiler
+<h2>
+<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+Technologies / Teknolojiler
+</h2>
 
 </div>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center" width="16%">HTML</td>
-<td align="center" width="16%">CSS</td>
-<td align="center" width="16%">JavaScript</td>
-<td align="center" width="16%">PHP</td>
-<td align="center" width="16%">Laravel</td>
-<td align="center" width="16%">Node.js</td>
+<td align="center" width="25%">HTML</td>
+<td align="center" width="25%">CSS</td>
+<td align="center" width="25%">JavaScript</td>
+<td align="center" width="25%">PHP</td>
 </tr>
 <tr>
+<td align="center">Laravel</td>
+<td align="center">Node.js</td>
 <td align="center">React</td>
 <td align="center">Python</td>
+</tr>
+<tr>
 <td align="center">MySQL</td>
 <td align="center">Linux</td>
 <td align="center">Git</td>
@@ -201,9 +215,13 @@ Domain / SSL Setup
 <td align="center">Docker</td>
 <td align="center">REST API</td>
 <td align="center">n8n</td>
-<td align="center">VDS</td>
-<td align="center">Automation</td>
+<td align="center">VDS Automation</td>
+</tr>
+<tr>
 <td align="center">Cyber Security</td>
+<td align="center">Server Setup</td>
+<td align="center">Webhook Systems</td>
+<td align="center">AI Automation</td>
 </tr>
 </table>
 
@@ -211,15 +229,18 @@ Domain / SSL Setup
 
 <div align="center">
 
-## Services / Hizmetlerimiz
+<h2>
+<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+Services / Hizmetlerimiz
+</h2>
 
 </div>
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td align="center" width="33%" valign="top">
 
-### Web Sitesi Geliştirme
+<h3>Web Sitesi Geliştirme</h3>
 
 <a href="https://e-devtech.com/">
 Kurumsal web siteleri, landing page, özel tasarım arayüzler ve modern web çözümleri.
@@ -228,7 +249,7 @@ Kurumsal web siteleri, landing page, özel tasarım arayüzler ve modern web ç�
 </td>
 <td align="center" width="33%" valign="top">
 
-### Admin Panel & Backend
+<h3>Admin Panel & Backend</h3>
 
 <a href="https://e-devtech.com/">
 Yönetim panelleri, kullanıcı sistemleri, API yapıları ve veritabanı odaklı backend sistemleri.
@@ -237,7 +258,7 @@ Yönetim panelleri, kullanıcı sistemleri, API yapıları ve veritabanı odakl�
 </td>
 <td align="center" width="33%" valign="top">
 
-### Otomasyon Sistemleri
+<h3>Otomasyon Sistemleri</h3>
 
 <a href="https://e-devtech.com/">
 VDS üzerinde çalışan botlar, iş akışları, tekrarlı görev otomasyonları ve n8n çözümleri.
@@ -249,7 +270,7 @@ VDS üzerinde çalışan botlar, iş akışları, tekrarlı görev otomasyonlar�
 <tr>
 <td align="center" width="33%" valign="top">
 
-### Siber Güvenlik
+<h3>Siber Güvenlik</h3>
 
 <a href="https://e-devtech.com/">
 Temel güvenlik kontrolleri, web güvenliği, sunucu sertleştirme ve güvenli kurulumlar.
@@ -258,7 +279,7 @@ Temel güvenlik kontrolleri, web güvenliği, sunucu sertleştirme ve güvenli k
 </td>
 <td align="center" width="33%" valign="top">
 
-### Web / APK Çözümleri
+<h3>Web / APK Çözümleri</h3>
 
 <a href="https://e-devtech.com/">
 Mobil uyumlu web sistemleri, APK mantığında çalışan web çözümleri ve özel yazılım yapıları.
@@ -267,7 +288,7 @@ Mobil uyumlu web sistemleri, APK mantığında çalışan web çözümleri ve ö
 </td>
 <td align="center" width="33%" valign="top">
 
-### API Entegrasyonları
+<h3>API Entegrasyonları</h3>
 
 <a href="https://e-devtech.com/">
 Google servisleri, WhatsApp, ödeme sistemleri, CRM ve özel API bağlantıları.
@@ -281,15 +302,18 @@ Google servisleri, WhatsApp, ödeme sistemleri, CRM ve özel API bağlantıları
 
 <div align="center">
 
-## Projects / İşlerimiz
+<h2>
+<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+Projects / İşlerimiz
+</h2>
 
 </div>
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td align="center" width="33%" valign="top">
 
-### E-DevTech Website
+<h3>E-DevTech Website</h3>
 
 <a href="https://e-devtech.com/">
 Kurumsal yazılım, teknoloji ve dijital çözüm hizmetleri web sitesi.
@@ -298,7 +322,7 @@ Kurumsal yazılım, teknoloji ve dijital çözüm hizmetleri web sitesi.
 </td>
 <td align="center" width="33%" valign="top">
 
-### Automation Systems
+<h3>Automation Systems</h3>
 
 <a href="https://e-devtech.com/">
 VDS, bot, makro, webhook ve workflow tabanlı otomasyon sistemleri.
@@ -307,7 +331,7 @@ VDS, bot, makro, webhook ve workflow tabanlı otomasyon sistemleri.
 </td>
 <td align="center" width="33%" valign="top">
 
-### Custom Web Panels
+<h3>Custom Web Panels</h3>
 
 <a href="https://e-devtech.com/">
 Müşteri ihtiyacına özel yönetim paneli, dashboard ve backend sistemleri.
@@ -319,7 +343,7 @@ Müşteri ihtiyacına özel yönetim paneli, dashboard ve backend sistemleri.
 <tr>
 <td align="center" width="33%" valign="top">
 
-### Business Websites
+<h3>Business Websites</h3>
 
 <a href="https://e-devtech.com/">
 İşletmeler için hızlı, modern ve mobil uyumlu web siteleri.
@@ -328,7 +352,7 @@ Müşteri ihtiyacına özel yönetim paneli, dashboard ve backend sistemleri.
 </td>
 <td align="center" width="33%" valign="top">
 
-### API Based Systems
+<h3>API Based Systems</h3>
 
 <a href="https://e-devtech.com/">
 Harici servislerle çalışan özel API bağlantıları ve entegrasyon sistemleri.
@@ -337,7 +361,7 @@ Harici servislerle çalışan özel API bağlantıları ve entegrasyon sistemler
 </td>
 <td align="center" width="33%" valign="top">
 
-### Server Setup
+<h3>Server Setup</h3>
 
 <a href="https://e-devtech.com/">
 Linux sunucu kurulumu, hosting yapılandırması, SSL, domain ve bakım işlemleri.
@@ -351,36 +375,39 @@ Linux sunucu kurulumu, hosting yapılandırması, SSL, domain ve bakım işlemle
 
 <div align="center">
 
-## Working Style / Çalışma Mantığı
+<h2>
+<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+Working Style / Çalışma Mantığı
+</h2>
 
 </div>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
-### Clean Code
+<h3>Clean Code</h3>
 
 Okunabilir, düzenli ve sürdürülebilir kod yapısı.
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
-### Secure Systems
+<h3>Secure Systems</h3>
 
 Güvenlik odaklı kurulum ve geliştirme mantığı.
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
-### Fast Delivery
+<h3>Fast Delivery</h3>
 
 İşi gereksiz uzatmadan hızlı teslim yaklaşımı.
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
-### Long Term
+<h3>Long Term</h3>
 
 Tek seferlik değil, uzun vadede çalışacak sistemler.
 
@@ -392,63 +419,63 @@ Tek seferlik değil, uzun vadede çalışacak sistemler.
 
 <div align="center">
 
-## GitHub Stats
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erdicaneroglu&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdicaneroglu&layout=compact&theme=tokyonight&hide_border=true" />
+<h2>
+<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+Mission / Misyon
+</h2>
 
 </div>
 
----
+<table align="center" width="100%">
+<tr>
+<td align="center">
 
-<div align="center">
-
-## Mission / Misyon
-
-</div>
-
-```txt
+<pre>
 Clean code.
 Secure systems.
 Fast delivery.
 Long-term maintainable software.
 No unnecessary drama.
-```
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## Contact / İletişim
+<h2>
+<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+Contact / İletişim
+</h2>
 
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center" width="300">
+<td align="center" width="33%" valign="top">
 
-### Website
+<h3>Website</h3>
 
 <a href="https://e-devtech.com/">
 e-devtech.com
 </a>
 
 </td>
-<td align="center" width="350">
+<td align="center" width="33%" valign="top">
 
-### Corporate Mail
+<h3>Corporate Mail</h3>
 
 <a href="mailto:erdicaneroglu@e-devtech.com">
 erdicaneroglu@e-devtech.com
 </a>
 
 </td>
-<td align="center" width="350">
+<td align="center" width="33%" valign="top">
 
-### Personal Mail
+<h3>Personal Mail</h3>
 
 <a href="mailto:erdicanerogluinfo@gmail.com">
 erdicanerogluinfo@gmail.com
