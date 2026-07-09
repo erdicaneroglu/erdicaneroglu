@@ -1,51 +1,54 @@
 <div align="center">
 
 <a href="https://e-devtech.com/">
-  <img 
-    src="./edev-logo.png" 
-    width="145" 
-    alt="E-DevTech Logo"
-    style="border-radius:50%; border:3px solid #ff7a1a; padding:14px; background:#0d1117;"
-  >
+  <kbd>
+    <img src="./edev-logo.png" width="135" alt="E-DevTech Logo">
+  </kbd>
 </a>
 
 <br><br>
 
 # Erdican Eroğlu
 
-### Full Stack Developer • Cyber Security • Automation Systems  
-### Yazılım • Siber Güvenlik • Otomasyon • AI Destekli Sistemler
+### Full Stack Developer • Cyber Security • Automation Systems
 
 <br>
 
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%">
-
 <a href="https://e-devtech.com/">
-<strong>Website</strong><br>
+<strong>Web Lab</strong><br>
 e-devtech.com
 </a>
-
 </td>
 <td align="center" width="33%">
-
 <a href="mailto:erdicaneroglu@e-devtech.com">
-<strong>Corporate Mail</strong><br>
+<strong>Kurumsal Hat</strong><br>
 erdicaneroglu@e-devtech.com
 </a>
-
 </td>
 <td align="center" width="33%">
-
 <a href="mailto:erdicanerogluinfo@gmail.com">
-<strong>Personal Mail</strong><br>
+<strong>Kahve & Kod Hattı</strong><br>
 erdicanerogluinfo@gmail.com
 </a>
-
 </td>
 </tr>
 </table>
+
+<br>
+
+<pre>
+$ whoami
+Erdican Eroğlu
+
+$ mode
+Build. Break. Fix. Ship.
+
+$ motto
+Spagetti kod yazmam. Yazdırmam. Görürsem refactorlarım.
+</pre>
 
 </div>
 
@@ -54,30 +57,32 @@ erdicanerogluinfo@gmail.com
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
-About / Hakkımda
+<img src="./edev-logo.png" width="22">
+Kod Tarafında Kim Bu Adam?
 </h2>
 
 </div>
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>TR</h3>
 
-E-DevTech çatısı altında web yazılım, özel panel sistemleri, otomasyon çözümleri, API entegrasyonları ve siber güvenlik odaklı projeler geliştiriyorum.
+E-DevTech tarafında web yazılım, otomasyon, API entegrasyonu, özel panel sistemleri ve siber güvenlik odaklı çözümler geliştiriyorum.
 
-Hedefim sade, hızlı, güvenli ve uzun vadede sorunsuz çalışan sistemler kurmak.
+Kafam net çalışır:  
+Önce sistemi anlarım, sonra temiz kurarım, sonra gereksiz karmaşayı çöpe yollarım.
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>EN</h3>
 
-I build web applications, custom admin panels, automation systems, API integrations and cyber security focused software solutions under E-DevTech.
+I build web applications, automation systems, API integrations, custom admin panels and security-focused solutions under E-DevTech.
 
-My goal is to develop clean, fast, secure and scalable systems.
+My working style is simple:  
+Understand the system, build it clean, remove the chaos.
 
 </td>
 </tr>
@@ -88,8 +93,8 @@ My goal is to develop clean, fast, secure and scalable systems.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
-Skills / Yetkinlikler
+<img src="./edev-logo.png" width="22">
+Skill Inventory
 </h2>
 
 </div>
@@ -98,42 +103,41 @@ Skills / Yetkinlikler
 <tr>
 <td align="center" width="33%" valign="top">
 
-<h3>Web Development</h3>
+<h3>Frontend Masası</h3>
 
 HTML<br>
 CSS<br>
 JavaScript<br>
+Responsive UI<br>
+Landing Page<br>
+Modern Interface<br>
+Kullanıcıyı yormayan tasarım
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<h3>Backend Kazanı</h3>
+
 PHP<br>
 Laravel<br>
-React<br>
 Node.js<br>
-Responsive UI
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<h3>Backend & API</h3>
-
 REST API<br>
-Admin Panels<br>
-Database Systems<br>
-Authentication Systems<br>
-Server Side Logic<br>
-Custom CRM Panels<br>
-Payment Integrations
+Admin Panel<br>
+Auth Systems<br>
+Database Logic
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<h3>Cyber Security</h3>
+<h3>Güvenlik Odası</h3>
 
 Web Security<br>
 Linux Security<br>
-Basic Pentest<br>
 Server Hardening<br>
-Secure System Setup<br>
+Basic Pentest<br>
+Access Control<br>
 Security Checks<br>
-Access Control
+“Bunu kim açık bıraktı?” analizi
 
 </td>
 </tr>
@@ -141,41 +145,41 @@ Access Control
 <tr>
 <td align="center" width="33%" valign="top">
 
-<h3>Automation</h3>
+<h3>Otomasyon Garajı</h3>
 
 Python Bots<br>
 VDS Automation<br>
-Workflow Systems<br>
-n8n Automations<br>
-Macro Systems<br>
+n8n Workflows<br>
 Webhook Systems<br>
-Task Automation
+Macro Systems<br>
+Task Automation<br>
+Tekrarlı işi robota kilitleme
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<h3>AI Tools</h3>
+<h3>AI Tezgahı</h3>
 
 AI Assisted Coding<br>
-Prompt Engineering<br>
+Prompt Systems<br>
 AI Workflow Design<br>
 Smart Automation<br>
-AI Business Solutions<br>
 AI Agents<br>
-Process Optimization
+Business Automation<br>
+“Bunu yapay zekaya yaptıralım” bölümü
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<h3>DevOps & Server</h3>
+<h3>Server Tarafı</h3>
 
 Linux Server<br>
 Hosting Setup<br>
 Git / GitHub<br>
 Deployment<br>
-Maintenance<br>
 Backup Systems<br>
-Domain / SSL Setup
+Domain / SSL Setup<br>
+Sunucu triplerini çözme
 
 </td>
 </tr>
@@ -186,42 +190,40 @@ Domain / SSL Setup
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
-Technologies / Teknolojiler
+<img src="./edev-logo.png" width="22">
+Tech Stack
 </h2>
 
 </div>
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="25%">HTML</td>
-<td align="center" width="25%">CSS</td>
-<td align="center" width="25%">JavaScript</td>
-<td align="center" width="25%">PHP</td>
+<td align="center" width="20%">HTML</td>
+<td align="center" width="20%">CSS</td>
+<td align="center" width="20%">JavaScript</td>
+<td align="center" width="20%">PHP</td>
+<td align="center" width="20%">Laravel</td>
 </tr>
 <tr>
-<td align="center">Laravel</td>
 <td align="center">Node.js</td>
 <td align="center">React</td>
 <td align="center">Python</td>
+<td align="center">MySQL</td>
+<td align="center">REST API</td>
 </tr>
 <tr>
-<td align="center">MySQL</td>
 <td align="center">Linux</td>
 <td align="center">Git</td>
 <td align="center">GitHub</td>
-</tr>
-<tr>
 <td align="center">Docker</td>
-<td align="center">REST API</td>
 <td align="center">n8n</td>
-<td align="center">VDS Automation</td>
 </tr>
 <tr>
+<td align="center">VDS</td>
+<td align="center">Webhook</td>
+<td align="center">Automation</td>
 <td align="center">Cyber Security</td>
-<td align="center">Server Setup</td>
-<td align="center">Webhook Systems</td>
-<td align="center">AI Automation</td>
+<td align="center">AI Tools</td>
 </tr>
 </table>
 
@@ -230,8 +232,8 @@ Technologies / Teknolojiler
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
-Services / Hizmetlerimiz
+<img src="./edev-logo.png" width="22">
+Ne İnşa Ediyoruz?
 </h2>
 
 </div>
@@ -240,58 +242,58 @@ Services / Hizmetlerimiz
 <tr>
 <td align="center" width="33%" valign="top">
 
-<h3>Web Sitesi Geliştirme</h3>
+<h3>Web Siteleri</h3>
 
 <a href="https://e-devtech.com/">
-Kurumsal web siteleri, landing page, özel tasarım arayüzler ve modern web çözümleri.
+Kurumsal web sitesi, landing page, hizmet sayfaları ve modern arayüzler.
 </a>
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<h3>Admin Panel & Backend</h3>
+<h3>Panel Sistemleri</h3>
 
 <a href="https://e-devtech.com/">
-Yönetim panelleri, kullanıcı sistemleri, API yapıları ve veritabanı odaklı backend sistemleri.
+Admin panel, dashboard, kullanıcı yönetimi ve özel iş takip sistemleri.
 </a>
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<h3>Otomasyon Sistemleri</h3>
+<h3>Otomasyon Botları</h3>
 
 <a href="https://e-devtech.com/">
-VDS üzerinde çalışan botlar, iş akışları, tekrarlı görev otomasyonları ve n8n çözümleri.
+VDS üzerinde çalışan botlar, makrolar, n8n akışları ve webhook sistemleri.
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="33%" valign="top">
-
-<h3>Siber Güvenlik</h3>
-
-<a href="https://e-devtech.com/">
-Temel güvenlik kontrolleri, web güvenliği, sunucu sertleştirme ve güvenli kurulumlar.
-</a>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<h3>Web / APK Çözümleri</h3>
-
-<a href="https://e-devtech.com/">
-Mobil uyumlu web sistemleri, APK mantığında çalışan web çözümleri ve özel yazılım yapıları.
-</a>
-
-</td>
 <td align="center" width="33%" valign="top">
 
 <h3>API Entegrasyonları</h3>
 
 <a href="https://e-devtech.com/">
-Google servisleri, WhatsApp, ödeme sistemleri, CRM ve özel API bağlantıları.
+WhatsApp, Google servisleri, ödeme sistemleri, CRM ve özel API bağlantıları.
+</a>
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<h3>Siber Güvenlik</h3>
+
+<a href="https://e-devtech.com/">
+Web güvenliği, sunucu güvenliği, temel kontrol ve güvenli yapılandırma.
+</a>
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<h3>AI Destekli Sistemler</h3>
+
+<a href="https://e-devtech.com/">
+AI destekli iş akışları, otomasyon fikirleri ve üretken yazılım çözümleri.
 </a>
 
 </td>
@@ -303,8 +305,8 @@ Google servisleri, WhatsApp, ödeme sistemleri, CRM ve özel API bağlantıları
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
-Projects / İşlerimiz
+<img src="./edev-logo.png" width="22">
+Projeler & İşler
 </h2>
 
 </div>
@@ -316,7 +318,7 @@ Projects / İşlerimiz
 <h3>E-DevTech Website</h3>
 
 <a href="https://e-devtech.com/">
-Kurumsal yazılım, teknoloji ve dijital çözüm hizmetleri web sitesi.
+Yazılım, teknoloji ve dijital çözüm hizmetleri için kurumsal web yapısı.
 </a>
 
 </td>
@@ -325,7 +327,7 @@ Kurumsal yazılım, teknoloji ve dijital çözüm hizmetleri web sitesi.
 <h3>Automation Systems</h3>
 
 <a href="https://e-devtech.com/">
-VDS, bot, makro, webhook ve workflow tabanlı otomasyon sistemleri.
+Bot, webhook, VDS makro ve workflow tabanlı sistemler.
 </a>
 
 </td>
@@ -334,7 +336,7 @@ VDS, bot, makro, webhook ve workflow tabanlı otomasyon sistemleri.
 <h3>Custom Web Panels</h3>
 
 <a href="https://e-devtech.com/">
-Müşteri ihtiyacına özel yönetim paneli, dashboard ve backend sistemleri.
+Müşteri ihtiyacına göre özel yönetim paneli ve dashboard sistemleri.
 </a>
 
 </td>
@@ -346,7 +348,7 @@ Müşteri ihtiyacına özel yönetim paneli, dashboard ve backend sistemleri.
 <h3>Business Websites</h3>
 
 <a href="https://e-devtech.com/">
-İşletmeler için hızlı, modern ve mobil uyumlu web siteleri.
+İşletmeler için hızlı, sade, mobil uyumlu ve yönetilebilir web siteleri.
 </a>
 
 </td>
@@ -355,7 +357,7 @@ Müşteri ihtiyacına özel yönetim paneli, dashboard ve backend sistemleri.
 <h3>API Based Systems</h3>
 
 <a href="https://e-devtech.com/">
-Harici servislerle çalışan özel API bağlantıları ve entegrasyon sistemleri.
+Harici servislerle konuşan özel yazılım ve entegrasyon çözümleri.
 </a>
 
 </td>
@@ -364,7 +366,7 @@ Harici servislerle çalışan özel API bağlantıları ve entegrasyon sistemler
 <h3>Server Setup</h3>
 
 <a href="https://e-devtech.com/">
-Linux sunucu kurulumu, hosting yapılandırması, SSL, domain ve bakım işlemleri.
+Linux sunucu, hosting, SSL, domain, backup ve bakım işlemleri.
 </a>
 
 </td>
@@ -376,8 +378,8 @@ Linux sunucu kurulumu, hosting yapılandırması, SSL, domain ve bakım işlemle
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
-Working Style / Çalışma Mantığı
+<img src="./edev-logo.png" width="22">
+Çalışma Modu
 </h2>
 
 </div>
@@ -386,30 +388,34 @@ Working Style / Çalışma Mantığı
 <tr>
 <td align="center" width="25%" valign="top">
 
-<h3>Clean Code</h3>
+<h3>Önce Anla</h3>
 
-Okunabilir, düzenli ve sürdürülebilir kod yapısı.
-
-</td>
-<td align="center" width="25%" valign="top">
-
-<h3>Secure Systems</h3>
-
-Güvenlik odaklı kurulum ve geliştirme mantığı.
+Sistemi anlamadan kod yazmak yok.  
+Direkt dalarsan kod değil, kazı alanı çıkar.
 
 </td>
 <td align="center" width="25%" valign="top">
 
-<h3>Fast Delivery</h3>
+<h3>Temiz Kur</h3>
 
-İşi gereksiz uzatmadan hızlı teslim yaklaşımı.
+Kod okunacak.  
+Yarın bakan kişi küfür etmeyecek.
 
 </td>
 <td align="center" width="25%" valign="top">
 
-<h3>Long Term</h3>
+<h3>Güvenli Bırak</h3>
 
-Tek seferlik değil, uzun vadede çalışacak sistemler.
+Açık kapı bırakmak yok.  
+Anahtarı paspas altına koymuyoruz.
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<h3>Çalışır Teslim Et</h3>
+
+“Bende çalışıyor” cümlesi yasak.  
+Gerçek ortamda çalışacak.
 
 </td>
 </tr>
@@ -420,8 +426,58 @@ Tek seferlik değil, uzun vadede çalışacak sistemler.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
-Mission / Misyon
+<img src="./edev-logo.png" width="22">
+Developer Terminal
+</h2>
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td align="center">
+
+<pre>
+erdican@edevtech:~$ start project
+Project analyzed...
+
+erdican@edevtech:~$ remove chaos
+Spaghetti code detected.
+Refactor mode activated.
+
+erdican@edevtech:~$ deploy
+Clean system shipped.
+
+Status: no drama, just delivery.
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<h2>
+<img src="./edev-logo.png" width="22">
+GitHub Stats
+</h2>
+
+<br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=erdicaneroglu&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdicaneroglu&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>
+<img src="./edev-logo.png" width="22">
+Final Not
 </h2>
 
 </div>
@@ -434,8 +490,8 @@ Mission / Misyon
 Clean code.
 Secure systems.
 Fast delivery.
-Long-term maintainable software.
 No unnecessary drama.
+Spaghetti belongs on the plate, not in the project.
 </pre>
 
 </td>
@@ -447,7 +503,7 @@ No unnecessary drama.
 <div align="center">
 
 <h2>
-<img src="./edev-logo.png" width="24" style="border-radius:50%; border:1px solid #ff7a1a; padding:3px; background:#0d1117;">
+<img src="./edev-logo.png" width="22">
 Contact / İletişim
 </h2>
 
@@ -489,8 +545,8 @@ erdicanerogluinfo@gmail.com
 
 <div align="center">
 
-<strong>TR:</strong> Yazılım, otomasyon, web sistemleri ve siber güvenlik çözümleri için iletişime geçebilirsiniz.  
+<strong>TR:</strong> Web yazılım, otomasyon, panel sistemleri ve siber güvenlik çözümleri için iletişime geçebilirsiniz.  
 <br>
-<strong>EN:</strong> Contact me for software, automation, web systems and cyber security solutions.
+<strong>EN:</strong> Contact me for web software, automation, custom panels and cyber security solutions.
 
 </div>
